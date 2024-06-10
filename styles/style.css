@@ -1,19 +1,18 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
 
 :root {
-  --primaryTextColor: #9CDAF1; /* Untuk title atau judul */
-  --secondaryTextColor: #fff ; /* Untuk text biasa seperti paragraph contohnya */
+  --primaryTextColor: #9cdaf1; /* Untuk title atau judul */
+  --secondaryTextColor: #fff; /* Untuk text biasa seperti paragraph contohnya */
 
   --borderColor: #f1f1f1;
   --lineColor: #d9d9d9; /* untuk line di pre-title */
 
-  --primaryBackgroundColor: #4CA1AF ;
-  --secondaryBackgroundColor: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+  --primaryBackgroundColor: #4ca1af;
+  --secondaryBackgroundColor: linear-gradient(to right, #2c5364, #203a43, #0f2027);
   --thirdBackgroundColor: #fff;
-  background: #0F2027;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+  background: #0f2027; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #2c5364, #203a43, #0f2027); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2c5364, #203a43, #0f2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
   --primaryIconColor: #7e74f1;
   --primaryIconColorHover: #5d51e8;
